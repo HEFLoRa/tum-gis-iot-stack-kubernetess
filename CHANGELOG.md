@@ -8,6 +8,12 @@ Versions are prefixed with `tum-gis-iot-stack-k8s-` due to usage of
 [chart-releaser-action](https://github.com/helm/chart-releaser-action).
 For releases `< 1.0.0` minor version step indicate breaking changes.
 
+## [Unreleased]
+
+### Changed
+
+- Caddy `2.6.4-alpine` --> `2.7.4-alpine`
+
 ## [tum-gis-iot-stack-k8s-0.10.2] - 2023-08-17
 
 ## Changed
